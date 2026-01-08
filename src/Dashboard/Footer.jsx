@@ -10,7 +10,10 @@ export default function Footer() {
         >
           ❤️ 
         </a>
-        by Aryan Bansal
+        by 
+        <span className="text-purple-400 font-medium hover:text-purple-300 transition">
+          Aryan Bansal
+        </span>
         <span className="mx-2 text-gray-600">|</span>
         UI Design by
         <span className="text-purple-400 font-medium hover:text-purple-300 transition">

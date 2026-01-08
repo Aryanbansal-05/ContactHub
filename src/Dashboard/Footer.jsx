@@ -4,7 +4,7 @@ export default function Footer() {
       <span className="flex items-center gap-2 text-sm text-gray-400">
         Made with
         <a
-          href="https://github.com/Aryanbansal-05"
+          href="https://portfolio-2-0-three-indol.vercel.app/"
           target="_blank"
           className="text-purple-500 inline-block transition-transform duration-300 hover:scale-125"
         >
